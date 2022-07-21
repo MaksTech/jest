@@ -124,7 +124,7 @@ module.exports = {
 
 ### Using webpack
 
-Jest can be used in projects that use [webpack](https://webpack.js.org/) to manage assets, styles, and compilation. webpack does offer some unique challenges over other tools. Refer to the [webpack guide](Webpack.md) to get started.
+Jest can be used in projects that use [webpack](https://webpack.js.org/) to manage assets, styles, and compilation. Webpack does offer some unique challenges over other tools. Refer to the [webpack guide](Webpack.md) to get started.
 
 ### Using parcel
 
